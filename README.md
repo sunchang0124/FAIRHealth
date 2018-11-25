@@ -13,7 +13,7 @@ First, this dataset is vertically split over two providers:
 Provider A has personal identifiers, BMI, number of children, and smoking status; 
 Provider B has the same personal identifiable information and living region, and reimbursement information. 
 
-Second, we simulated that Provider A only hosts a small number of patients, i.e., 1338 patients, while Provider B hosts about 400,000 patients (which includes Provider A’s patients too). 
+Second, we simulated that Provider A only hosts a small number of patients, i.e., 1338 patients, while Provider B hosts about 64400 (in smaller folder) / 400,000 (in bigger folder)patients (which includes all Provider A’s patients too). 
 
 ## Convert CSV to RDF file:
 Prerequisites: 
