@@ -22,3 +22,8 @@ Prerequisites:
 3. PostgresQL: https://www.postgresql.org/
 4. R2RML (Mapping tool): https://github.com/nkons/r2rml-parser 
 5. Knowledge on RDF: https://www.w3.org/TR/2004/REC-rdf-primer-20040210/#rdfxml 
+
+Based on your own data, you can configure your converting file. When you generate the file, please follow the R2RML tutorial about how to map this file with your data into RDF format. More details will be added later on. Thank you and please feel free to contact me: sunchang0124@gmail.com
+
+
+![alt text](https://github.com/sunchang0124/FAIRHealth/blob/master/Jupyter%20Widget.png)
